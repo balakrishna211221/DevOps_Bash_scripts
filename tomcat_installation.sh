@@ -8,6 +8,7 @@
 
 sudo apt-get update
 echo " apt-get updated " | boxes
+sudo aptget install boxes
 sudo apt-get install wget
 sudo apt-get install openjdk-8-jdk
 
